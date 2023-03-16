@@ -2,6 +2,10 @@ body {
   background-color: lightblue;
 }
 
+p {
+  background-color: orange;
+}
+
 h1 {
   color: navy;
   margin-left: 20px;
